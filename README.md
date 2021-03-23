@@ -74,6 +74,6 @@ Official oh-my-posh links
 
 
 [oh-my-posh-repo]: https://img.shields.io/badge/repo-oh--my--posh-blue
-[JanDeDobbeleer]: (https://github.com/JanDeDobbeleer/oh-my-posh (target='_blank'))
+[JanDeDobbeleer]: https://github.com/JanDeDobbeleer/oh-my-posh
 [docs-badge]: https://img.shields.io/badge/documentation-ohmyposh.dev-blue
-[docs]: (https://ohmyposh.dev/docs (target='_blank'))
+[docs]: https://ohmyposh.dev/docs
