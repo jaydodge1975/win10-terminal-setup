@@ -33,7 +33,7 @@ Install-Module posh-git -Scope CurrentUser
 Install-Module oh-my-posh -Scope CurrentUser
 ```
 
-View the default themes for oh-my-posh set one:
+View the default themes for oh-my-posh and pick one or load my custom theme:
 
 ```powershell
 # Clear the terminal window so you can scroll back and view all the themes easier.
@@ -74,6 +74,6 @@ Official oh-my-posh links
 
 
 [oh-my-posh-repo]: https://img.shields.io/badge/repo-oh--my--posh-blue
-[JanDeDobbeleer]: https://github.com/JanDeDobbeleer/oh-my-posh
+[JanDeDobbeleer]: (https://github.com/JanDeDobbeleer/oh-my-posh (target='_blank'))
 [docs-badge]: https://img.shields.io/badge/documentation-ohmyposh.dev-blue
-[docs]: https://ohmyposh.dev/docs
+[docs]: (https://ohmyposh.dev/docs (target='_blank'))
