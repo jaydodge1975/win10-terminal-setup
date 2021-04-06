@@ -1,8 +1,8 @@
 # win10-terminal-setup
 ## About
-This repo is all about the New Windows Terminal APP and what it offers you.
+This repository is all about the New Windows Terminal APP and what it offers you.
 
-> ### What repo covers (currently still being worked on)
+> ### What this repo covers (currently still being worked on)
 > - Install Terminal APP from scratch
 >   - add a theme to give it a personal look
 > - Install other shells
@@ -13,14 +13,18 @@ So take advantage of the new .github table of contents to navigate this document
 
 ## Prerequisites
 
-You will need to get the official [Windows Terminal][windowsterminal] APP.  Once the APP is installed it will give you the best terminal experience on Windows.  And allow you to keep adding features to it.  There are multiple ways of acquiring the Windows Terminal.  However the best is from the Microsoft [Store](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701).  This will automatically keep the APP updated for you. 
+1. Time and patience
+2. Terminal APP
+3. Font (Optional but highly recommended)
 
-Also to get the most out of the customized theme you will need to install a special font.  [Cascadi-Code](https://github.com/microsoft/cascadia-code) is going to be a good place to start.  Click on the name to go to the repo.  Next look on the right side colum and click the latest Release.  Once that opens you will find that there is a zipped file with the font on this page to download.
+> 2. You will need to get the official [Windows Terminal][windowsterminal] APP.  Once the APP is installed it will give you the best terminal experience on Windows.  And allow you to keep adding features to it.  There are multiple ways of acquiring the Windows Terminal.  However the best is from the Microsoft [Store](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701).  This will automatically keep the APP updated for you. 
 
-NuGet provider is also going to be required but you will be prompted to install this.
+> 3. Also to get the most out of the customized theme you will need to install a special font.  [Cascadi-Code](https://github.com/microsoft/cascadia-code) is going to be a good place to start.  Click on the name to go to the repo.  Next look on the right side colum and click the latest Release.  Once that opens you will find that there is a zipped file with the font on this page to download.
 
-Untrusted repository
-InstallationPolicy value by running the Set-PSRepository cmdlet.
+> NuGet provider is also going to be required but you will be prompted to install this.
+
+> Untrusted repository
+> InstallationPolicy value by running the Set-PSRepository cmdlet.
 
 ## Installation
 
