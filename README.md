@@ -1,12 +1,6 @@
 # win10-terminal-setup
-My Windows 10 Terminal Setup and Customizations steps.
-## Table of Contents
+A guide to the New Windows Terminal.  Including Setup and Customizations steps.  Use the new .github table of contents menu to the left of the README.md near the top to navigate this document.
 
-- [About](#about)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [More Information](#more-information)
 
 ## About
 
@@ -58,9 +52,18 @@ Set-Theme {theme-name}
 
 ## Configuration
 
+Install custom themes for PowerShell 7 or Pwsh by adding them to theme directory.
+This pathway changes with the version of oh-my-posh you are using.
+Current oh-my-posh is:  [![GitHub release](https://img.shields.io/github/release/JanDeDobbeleer/oh-my-posh.svg)](https://github.com/JanDeDobbeleer/oh-my-posh/releases/)
+
+Pathway is: %username%\Documents\PowerShell\Modules\oh-my-posh\ {version} \themes
+
+
+
+
 My custom theme red-chaos-line is included in this repo.
 
-## More-Information
+## More Information
 
 Official oh-my-posh links
 
