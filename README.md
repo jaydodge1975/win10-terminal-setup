@@ -1,10 +1,17 @@
 # win10-terminal-setup
-A guide to the New Windows Terminal.  Including Setup and Customizations steps.  Use the new .github table of contents menu to the left of the README.md near the top to navigate this document.
-
-
 ## About
+This repo is all about the New Windows Terminal APP and what it offers you.
 
-This repo will show you instructions on how to set up Windows Terminal from scratch and install a theme to give it a personal look and feel.  I will also be linking to the repo's or websites used if you want more information.
+> Install Terminal APP from scratch
+> Install a theme to give it a personal look
+> Install other shells
+> Hints and tips to help you out
+> Give links to reference sources
+
+So take advantage of the new .github table of contents to navigate this document.
+
+Find it located to the left of the README.md file name.
+
 ## Prerequisites
 
 You will need to get the official [Windows Terminal][windowsterminal] APP.  Once the APP is installed it will give you the best terminal experience on Windows.  And allow you to keep adding features to it.  There are multiple ways of acquiring the Windows Terminal.  However the best is from the Microsoft [Store](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701).  This will automatically keep the APP updated for you. 
