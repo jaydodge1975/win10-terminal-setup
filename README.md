@@ -2,15 +2,14 @@
 ## About
 This repo is all about the New Windows Terminal APP and what it offers you.
 
-> Install Terminal APP from scratch
-> Install a theme to give it a personal look
-> Install other shells
-> Hints and tips to help you out
-> Give links to reference sources
+> ### What repo covers (currently still being worked on)
+> - Install Terminal APP from scratch
+>   - add a theme to give it a personal look
+> - Install other shells
+> - Hints and tips to help you out
+> - Give links to reference sources
 
-So take advantage of the new .github table of contents to navigate this document.
-
-Find it located to the left of the README.md file name.
+So take advantage of the new .github table of contents to navigate this document.  You can find it located to the left of the README.md file name.
 
 ## Prerequisites
 
