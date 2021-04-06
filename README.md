@@ -4,8 +4,9 @@ This repository is all about the New Windows Terminal APP and what it offers you
 
 > ### What this repo covers (currently still being worked on)
 > - Install Terminal APP from scratch
->   - add a theme to give it a personal look
-> - Install other shells
+>   - add a theme to give it a personal look (Optional)
+> - Install other shells (highly recommended)
+> - Custom Configuration
 > - Hints and tips to help you out
 > - Give links to reference sources
 
@@ -73,6 +74,9 @@ Pathway is: %username%\Documents\PowerShell\Modules\oh-my-posh\ {version} \theme
 
 My custom theme red-chaos-line is included in this repo.
 
+## Hints and tips
+
+  Touch is one command you**CAN NOT**use in PowerShell use **'NewItem'** instead
 ## More Information
 
 Official oh-my-posh links
