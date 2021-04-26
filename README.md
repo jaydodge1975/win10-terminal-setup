@@ -12,6 +12,16 @@ This repository is all about the NEW Windows Terminal APP and what it offers you
 
 So take advantage of the new .github table of contents to navigate this document.  You can find it located to the left of the README.md file name.
 
+## What is a computer shell?
+
+In general, operating system shells use either a command line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation. It is named a shell because it is the outermost layer around the operating system.
+
+Bash, or the Bourne-Again Shell, is by far the most widely used choice and it comes installed as the default shell in the most popular Linux distributions.
+
+Bash is near POSIX-compliant and probably the best shell to use. It is the most common shell used in UNIX systems.
+
+One of the really cool things about Windows 10 is that Microsoft has baked a full-blown Ubuntu-based Bash shell into the operating system. For those who might not be familiar with Bash, it is a text-based Linux command line environment.
+
 ## Prerequisites
 
 1. Time and patience
@@ -77,6 +87,26 @@ My custom theme red-chaos-line is included in this repo.
 ## Hints and tips
 
   Touch is one command you **CAN NOT** use in PowerShell use **'NewItem'** instead
+
+## Get Bash on Windows 10
+
+This feature doesn’t work on the 32-bit version of Windows 10
+
+Make sure you windows is up to date.
+Install the Windows Subsystem for Linux.
+  escalade powershell and run
+    Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+
+or
+
+head to Control Panel > Programs > Turn Windows Features On Or Off. Enable the “Windows Subsystem for Linux” option in the list, and then click the “OK” button.
+
+Click “Restart now” when you’re prompted to restart your computer. The feature won’t work until you reboot.
+
+After your computer restarts, open the Microsoft Store from the Start menu, and search for “Linux” in the store. Click “Get the apps” under the “Linux on Windows?” banner.
+
+Note: Starting with the Fall Creators Update, you can no longer install Ubuntu by running the “bash” command. Instead, you have to install Ubuntu or another Linux distribution from the Store app.
+
 ## More Information
 
 Official oh-my-posh links
