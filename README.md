@@ -1,6 +1,6 @@
 # win10-terminal-setup
 ## About
-This repository is all about the New Windows Terminal APP and what it offers you.
+This repository is all about the NEW Windows Terminal APP and what it offers you.  With the new APP you can install multiple shells and access them all in one convenient place.  It will also guide you on customizing a few shells to give you a more visual experience.
 
 > ### What this repo covers (currently still being worked on)
 > - Install Terminal APP from scratch
@@ -27,7 +27,7 @@ So take advantage of the new .github table of contents to navigate this document
 > Untrusted repository
 > InstallationPolicy value by running the Set-PSRepository cmdlet.
 
-## Installation
+## Installation of custom settings for powershell
 
 Verify the Prerequisites have been met from the section above.
 
@@ -76,7 +76,7 @@ My custom theme red-chaos-line is included in this repo.
 
 ## Hints and tips
 
-  Touch is one command you**CAN NOT**use in PowerShell use **'NewItem'** instead
+  Touch is one command you **CAN NOT** use in PowerShell use **'NewItem'** instead
 ## More Information
 
 Official oh-my-posh links
